@@ -9,6 +9,6 @@
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/simple-markdown.jpg",
     "version": "1.4.0",
     "download_url": "https://api.github.com/repos/standardnotes/markdown-basic/zipball/1.4.0",
-    "url": "https://github.com/MagnificentMagician/standard-notes-open-extended/blob/markdown-basic/dist/index.html",
-    "latest_url": "https://github.com/MagnificentMagician/standard-notes-open-extended/blob/markdown-basic/index.json"
+    "url": "https://github.com/MagnificentMagician/standard-notes-open-extended/blob/gh-pages/markdown-basic/dist/index.html",
+    "latest_url": "https://github.com/MagnificentMagician/standard-notes-open-extended/blob/gh-pages/markdown-basic/index.json"
 }
